@@ -1,0 +1,58 @@
+
+#head1{
+	background-color:0000FF;
+	display;inline;
+}
+#head1 img{
+	image-align:center;
+}
+#link1{
+	background-color:#663399;
+	padding:20px;
+}
+#logo{
+	border-radius:50px;
+}
+p a{
+	background-color:#ededed;
+	text-decoration:none;
+	padding:20px;
+	border-radius:70%;
+	color:magenta;
+}
+.table1{
+	text-align:center;
+}
+.table1{
+	background-color:#1E90FF;
+	border:ridge shadow;
+}
+
+#foot1{
+	background-color:#2F4F4F;
+	color:white;
+}
+#foot1 a{
+	text-decoration:none;
+	color:black;
+}
+#foot1 h1 p li{
+	font-color:white;
+}
+
+#search1{
+	float:right;
+	margin-top:10px;
+}
+.table1 a{
+	background-color:green;
+	text-decoration:none;
+	padding:10px;
+	color:white;
+}
+#tab img{
+	border-radius:100px;
+	}
+footer{
+	background-color:purple;
+	}
